@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, "Lucida Grande", sans-serif; 
+    background-image: url("background.jpg"); 
+    background-repeat: no-repeat;
+    background-size: 980px 690px;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0 auto;
+    color: white;
+}
+
+h1, h2 {
+    font-size: 16px;
+    padding: 0.5%;
+   }
+
+header{
+    position: relative;
+    left:350px;
+    top: 20px;
+}
+
+.control-panel{
+    color: black;
+    position: relative;
+    left: 500px;
+    top: 150px;
+    font-size: 12px;
+}
+
+}
